@@ -1,0 +1,20 @@
+body,
+html {
+    font-family: 'Nunito', sans-serif;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+/* JQuery Validation */
+
+label.error {
+    color: red
+}
+
+/* Styles */
+
+.icon-hover-red:hover {
+    color: red;
+}
